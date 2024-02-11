@@ -57,11 +57,11 @@ const projects = [
   {
     id: 1,
     title: "Python Developer Intern at Goognu Data Services Pvt. Ltd., Gurugram, India",
-    desc: `"● Redesigned the front page of the website of the company being a part of the Front-End team.
+    desc: `● Redesigned the front page of the website of the company being a part of the Front-End team.
     ● Created a script in Python to attach a watermark to videos on a particular web page needed by the
     company to automatically watermark tutoring videos.
     ● Undertook a project requiring cleaning and organizing of data along with API designing using Python
-    and MongoDB."`,
+    and MongoDB.`,
     url: "",
   },
   {
@@ -73,9 +73,9 @@ const projects = [
   {
     id: 3,
     title: "Front-End Developer Intern at datadecode.ai, India",
-    desc: `" ● Designed the front end of a government-affiliated website using HTML5, CSS and ReactJS
+    desc: ` ● Designed the front end of a government-affiliated website using HTML5, CSS and ReactJS
     ● Constructed and helped with the designing of the company's website using ReactJS and other
-    Javascript libraries such as ExpressJS and NodeJS."`,
+    Javascript libraries such as ExpressJS and NodeJS.`,
     url: "",
   },
 ];
