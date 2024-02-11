@@ -47,9 +47,7 @@ const Output: React.FC<Props> = ({ index, cmd }) => {
           projects: <Projects />,
           pwd: <GeneralOutput>/home/adiityax</GeneralOutput>,
           socials: <Socials />,
-          themes: <Themes />,
           welcome: <Welcome />,
-          whoami: <GeneralOutput>visitor</GeneralOutput>,
         }[cmd]
       }
     </OutputContainer>
