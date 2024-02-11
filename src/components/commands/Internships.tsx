@@ -22,7 +22,7 @@ const Internships: React.FC = () => {
 
   /* ===== check current command is redirect ===== */
   useEffect(() => {
-    if (checkRedirect(rerender, currentCommand, "projects")) {
+    if (checkRedirect(rerender, currentCommand, "internships")) {
       projects.forEach(({ id, url }) => {
         id === parseInt(arg[1]) && window.open(url, "_blank");
       });
