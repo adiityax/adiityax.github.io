@@ -35,6 +35,7 @@ export const commands: Command = [
   { cmd: "gui", desc: "go to my portfolio in GUI", tab: 10 },
   { cmd: "help", desc: "check available commands", tab: 9 },
   { cmd: "history", desc: "view command history", tab: 6 },
+  { cmd: "internships", desc: "view internships I've worked at", tab: 2 },
   { cmd: "projects", desc: "view projects that I've coded", tab: 5 },
   { cmd: "pwd", desc: "print current working directory", tab: 10 },
   { cmd: "socials", desc: "check out my social accounts", tab: 6 },
